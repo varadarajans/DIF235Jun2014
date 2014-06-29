@@ -2,3 +2,5 @@ This is the first line of coding in github
 
 
 Thanks for doing this, keep up the good work!
+
+Continuing the coding
